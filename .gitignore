@@ -86,7 +86,7 @@ target
 .mtj.tmp/
 
 # Package Files #
-*.jar
+*.iml
 *.war
 *.nar
 *.ear
