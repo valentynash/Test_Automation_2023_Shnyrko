@@ -89,24 +89,6 @@
     </build>
     <profiles>
         <profile>
-            <id>AddEndSub</id>
-            <activation>
-                <activeByDefault>false</activeByDefault>
-            </activation>
-            <properties>
-                <suite.xml.file>addEndSub.xml</suite.xml.file>
-            </properties>
-        </profile>
-        <profile>
-            <id>MultEndDiv</id>
-            <activation>
-                <activeByDefault>false</activeByDefault>
-            </activation>
-            <properties>
-                <suite.xml.file>multEndDiv.xml</suite.xml.file>
-            </properties>
-        </profile>
-        <profile>
             <id>AllTests</id>
             <activation>
                 <activeByDefault>true</activeByDefault>
